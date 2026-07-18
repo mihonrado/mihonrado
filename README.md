@@ -1,112 +1,182 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=AD833C&vCenter=true&width=900&height=35&repeat=false&lines=marlloyd%40mih%3A~%24+clear+%26%26+mihfetch)
+
 <pre>
-marlloyd@mih:~$ clear
+MIH                                      marlloyd@mih
+Build with Purpose.                      --------------------------------
+Scale with Precision.                    name          : Marlloyd I. Honrado
+                                         role          : Web Developer
+                                         location      : Davao City, Philippines
+                                         education     : BS Information Technology
+                                         brand         : MIH
 
-marlloyd@mih:~$ mihfetch
+                                         specialization: Frontend Engineering
+                                                         SaaS Development
+                                                         Automation
+                                                         AI-Assisted Development
 
-MIH
-===============================================================================
+                                         status        : Building systems that scale
+</pre>
 
-user                 : Marlloyd I. Honrado
-role                 : Web Developer
-location             : Davao City, Philippines
-education            : BS Information Technology
-focus                 : Frontend Engineering, SaaS, Automation and AI
-status                : Building systems that scale
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=AD833C&vCenter=true&width=900&height=35&repeat=false&lines=marlloyd%40mih%3A~%24+cat+~%2Fprofile.conf)
 
-===============================================================================
+<pre>
+[profile]
 
-marlloyd@mih:~$ cat ~/profile.conf
+description          : Web developer with remote experience building
+                       production SaaS features for an international team.
 
-description           : Web developer experienced in building production
-                        SaaS features for an international remote team.
+development_style    : Modular, maintainable and performance-focused
 
-specialization        : Modular and maintainable web applications
-workflow              : AI-assisted development
-development_style     : Clean, scalable and performance-focused
-collaboration         : Remote and asynchronous
-availability          : Open to web development opportunities
+primary_focus        : Frontend development
+                       SaaS applications
+                       Automation workflows
+                       AI-assisted development
 
-marlloyd@mih:~$ cat ~/stack.conf
+collaboration        : Remote and asynchronous
 
+availability         : Open to web development and automation opportunities
+</pre>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=AD833C&vCenter=true&width=900&height=35&repeat=false&lines=marlloyd%40mih%3A~%24+cat+~%2Fstack.conf)
+
+<pre>
 [languages]
-markup                : HTML
-styling               : CSS
-programming           : JavaScript, TypeScript, PHP
-database              : MySQL
+
+markup               : HTML
+styling              : CSS
+programming          : JavaScript, TypeScript, PHP
+database             : MySQL
+
 
 [frontend]
-frameworks            : React, Next.js, Vue.js, Nuxt
-styling_tools         : Tailwind CSS
-integration           : REST APIs
+
+frameworks           : React, Next.js, Vue.js, Nuxt
+styling              : Tailwind CSS
+integration          : REST APIs
+
 
 [backend]
-framework             : Laravel
-runtime               : Node.js
-database              : MySQL
-architecture          : Modular applications, RBAC and multi-tenant systems
+
+framework            : Laravel
+runtime              : Node.js
+database             : MySQL
+
+architecture         : Modular applications
+                       Role-based access control
+                       Multi-tenant systems
+
 
 [devops]
-containerization      : Docker
-version_control       : Git, GitHub
-deployment            : Vercel
-editor                : Visual Studio Code
+
+containerization     : Docker
+version_control      : Git, GitHub
+deployment           : Vercel
+editor               : Visual Studio Code
+
 
 [design]
-interface_design      : Figma
-graphics              : Adobe Illustrator
+
+interface_design     : Figma
+graphics             : Adobe Illustrator
+
 
 [ai_workflow]
-assistants            : Claude Code, OpenAI Codex, ChatGPT
-development_tool      : Antigravity
 
-marlloyd@mih:~$ cat ~/experience.log
+assistants           : Claude Code
+                       OpenAI Codex
+                       ChatGPT
 
-remote_experience     : AWORK A/S — Denmark
-work_environment      : International remote development team
-platforms             : CitizenOne, Obiyen and FarmCo-Pal
+development_tool     : Antigravity
+</pre>
 
-features_built        : Dynamic Form Builder
-                        Analytics and engagement tracking
-                        Centralized notification system
-                        AI provider integration
-                        Dynamic bookkeeping
-                        Financial statistics dashboard
-                        Role-based access control
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=AD833C&vCenter=true&width=900&height=35&repeat=false&lines=marlloyd%40mih%3A~%24+tail+-n+20+~%2Fexperience.log)
 
-support_experience    : Hardware, software and network troubleshooting
-previous_role         : IT Support Technician
+<pre>
+[2025-present] AWORK A/S — Denmark, Remote
 
-marlloyd@mih:~$ mihctl stats --summary
+platforms            : CitizenOne
+                       Obiyen
+                       FarmCo-Pal
 
-production_platforms  : 3
-primary_focus         : Web and SaaS development
-frontend_frameworks   : React, Next.js, Vue.js and Nuxt
-backend_stack         : Laravel, Node.js and MySQL
-automation_direction  : n8n and GoHighLevel
-github_username       : mihonrado
+systems_built        : Dynamic form builder
+                       Engagement analytics
+                       Centralized notifications
+                       AI provider integration
+                       Dynamic bookkeeping
+                       Financial dashboard
+                       Role-based access control
 
-marlloyd@mih:~$ cat ~/learning.queue
+responsibilities     : Frontend development
+                       Backend integration
+                       Database workflows
+                       QA testing
+                       Production feature delivery
 
-currently_learning    : React ecosystem
-                        Next.js
-                        Docker
-                        n8n automation
-                        GoHighLevel
-                        System design
-                        Cloud deployment
-                        AI engineering
 
-marlloyd@mih:~$ cat ~/.config/mih/connect.conf
+[2022-present] Hulid Elementary School — Philippines
 
-portfolio             : <a href="https://marlloyd-portfolio.vercel.app">https://marlloyd-portfolio.vercel.app</a>
-linkedin              : <a href="https://www.linkedin.com/in/marlloydhonrado">https://www.linkedin.com/in/marlloydhonrado</a>
-github                : <a href="https://github.com/mihonrado">https://github.com/mihonrado</a>
-email                 : <a href="mailto:honradomarlloyd@gmail.com">honradomarlloyd@gmail.com</a>
+role                 : IT Support Technician
 
-marlloyd@mih:~$ echo $PHILOSOPHY
+responsibilities     : Hardware maintenance
+                       Software troubleshooting
+                       Network troubleshooting
+                       Workstation deployment
+                       System recovery
+</pre>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=AD833C&vCenter=true&width=900&height=35&repeat=false&lines=marlloyd%40mih%3A~%24+mihctl+stats+--summary)
+
+<pre>
+production_platforms : 3
+work_environment     : International remote team
+primary_domain       : Web and SaaS development
+
+frontend_stack       : React, Next.js, Vue.js, Nuxt
+backend_stack        : Laravel, Node.js, MySQL
+devops_stack         : Docker, Git, GitHub, Vercel
+
+automation_direction : n8n, GoHighLevel
+ai_toolset           : Claude Code, Codex, ChatGPT, Antigravity
+
+github_username      : mihonrado
+current_status       : Active
+</pre>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=AD833C&vCenter=true&width=900&height=35&repeat=false&lines=marlloyd%40mih%3A~%24+cat+~%2Flearning.queue)
+
+<pre>
+[currently_learning]
+
+01                   : React ecosystem
+02                   : Next.js
+03                   : Docker
+04                   : n8n automation
+05                   : GoHighLevel
+06                   : AI engineering
+07                   : System design
+08                   : Cloud deployment
+09                   : Backend architecture
+</pre>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=AD833C&vCenter=true&width=900&height=35&repeat=false&lines=marlloyd%40mih%3A~%24+cat+~%2F.config%2Fmih%2Fconnect.conf)
+
+<pre>
+[connect]
+
+portfolio            : <a href="https://marlloyd-portfolio.vercel.app">https://marlloyd-portfolio.vercel.app</a>
+
+linkedin             : <a href="https://www.linkedin.com/in/marlloydhonrado">https://www.linkedin.com/in/marlloydhonrado</a>
+
+github               : <a href="https://github.com/mihonrado">https://github.com/mihonrado</a>
+
+email                : <a href="mailto:honradomarlloyd@gmail.com">honradomarlloyd@gmail.com</a>
+</pre>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=AD833C&vCenter=true&width=900&height=35&repeat=false&lines=marlloyd%40mih%3A~%24+echo+%24PHILOSOPHY)
+
+<pre>
 Build with Purpose.
 Scale with Precision.
-
-marlloyd@mih:~$ _
 </pre>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=AD833C&vCenter=true&width=900&height=35&repeat=true&lines=marlloyd%40mih%3A~%24+_)
