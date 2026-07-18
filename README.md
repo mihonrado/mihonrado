@@ -1,123 +1,112 @@
-<div align="center">
+<pre>
+marlloyd@mih:~$ clear
 
-# MIH
+marlloyd@mih:~$ mihfetch
 
-### `marlloyd@mih:~$ neofetch`
+MIH
+===============================================================================
 
-</div>
+user                 : Marlloyd I. Honrado
+role                 : Web Developer
+location             : Davao City, Philippines
+education            : BS Information Technology
+focus                 : Frontend Engineering, SaaS, Automation and AI
+status                : Building systems that scale
 
-```console
-MIH                              marlloyd@mih
-                                 ──────────────────────────────
-Building Systems That Scale      Name: Marlloyd Honrado
-                                 Role: Web Developer
-                                 Location: Davao, Philippines
-                                 Brand: MIH
+===============================================================================
 
-                                 Frontend: React, Next.js, Vue, Nuxt
-                                 Backend: Laravel, Node.js
-                                 Database: MySQL
-                                 DevOps: Docker, Git, GitHub, Vercel
+marlloyd@mih:~$ cat ~/profile.conf
 
-                                 Editor: Visual Studio Code
-                                 Shell: PowerShell
-                                 Focus: SaaS, Automation and AI
+description           : Web developer experienced in building production
+                        SaaS features for an international remote team.
 
-                                 Status: Building systems that scale
-```
+specialization        : Modular and maintainable web applications
+workflow              : AI-assisted development
+development_style     : Clean, scalable and performance-focused
+collaboration         : Remote and asynchronous
+availability          : Open to web development opportunities
 
-```bash
-marlloyd@mih:~$ cat stack.txt
-```
+marlloyd@mih:~$ cat ~/stack.conf
 
-## `~/tech-stack`
+[languages]
+markup                : HTML
+styling               : CSS
+programming           : JavaScript, TypeScript, PHP
+database              : MySQL
 
-### Languages
+[frontend]
+frameworks            : React, Next.js, Vue.js, Nuxt
+styling_tools         : Tailwind CSS
+integration           : REST APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql" alt="Languages"/>
-</p>
+[backend]
+framework             : Laravel
+runtime               : Node.js
+database              : MySQL
+architecture          : Modular applications, RBAC and multi-tenant systems
 
-### Frameworks and Libraries
+[devops]
+containerization      : Docker
+version_control       : Git, GitHub
+deployment            : Vercel
+editor                : Visual Studio Code
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,laravel,nodejs,tailwind" alt="Frameworks and libraries"/>
-</p>
+[design]
+interface_design      : Figma
+graphics              : Adobe Illustrator
 
-### DevOps and Tools
+[ai_workflow]
+assistants            : Claude Code, OpenAI Codex, ChatGPT
+development_tool      : Antigravity
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel" alt="DevOps and tools"/>
-</p>
+marlloyd@mih:~$ cat ~/experience.log
 
-### Design
+remote_experience     : AWORK A/S — Denmark
+work_environment      : International remote development team
+platforms             : CitizenOne, Obiyen and FarmCo-Pal
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ai" alt="Design tools"/>
-</p>
+features_built        : Dynamic Form Builder
+                        Analytics and engagement tracking
+                        Centralized notification system
+                        AI provider integration
+                        Dynamic bookkeeping
+                        Financial statistics dashboard
+                        Role-based access control
 
-### AI Workflow
+support_experience    : Hardware, software and network troubleshooting
+previous_role         : IT Support Technician
 
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge" alt="OpenAI Codex"/>
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge" alt="Antigravity"/>
-</p>
+marlloyd@mih:~$ mihctl stats --summary
 
-```bash
-marlloyd@mih:~$ cat learning.txt
-```
+production_platforms  : 3
+primary_focus         : Web and SaaS development
+frontend_frameworks   : React, Next.js, Vue.js and Nuxt
+backend_stack         : Laravel, Node.js and MySQL
+automation_direction  : n8n and GoHighLevel
+github_username       : mihonrado
 
-## `~/currently-learning`
+marlloyd@mih:~$ cat ~/learning.queue
 
-```text
-├── React Ecosystem
-├── Next.js
-├── Docker
-├── n8n Automation
-├── GoHighLevel (GHL)
-├── AI Engineering
-├── System Design
-└── Cloud Deployment
-```
+currently_learning    : React ecosystem
+                        Next.js
+                        Docker
+                        n8n automation
+                        GoHighLevel
+                        System design
+                        Cloud deployment
+                        AI engineering
 
-```bash
-marlloyd@mih:~$ cat connect.txt
-```
+marlloyd@mih:~$ cat ~/.config/mih/connect.conf
 
-## `~/connect`
+portfolio             : <a href="https://marlloyd-portfolio.vercel.app">https://marlloyd-portfolio.vercel.app</a>
+linkedin              : <a href="https://www.linkedin.com/in/marlloydhonrado">https://www.linkedin.com/in/marlloydhonrado</a>
+github                : <a href="https://github.com/mihonrado">https://github.com/mihonrado</a>
+email                 : <a href="mailto:honradomarlloyd@gmail.com">honradomarlloyd@gmail.com</a>
 
-```text
-Portfolio  : https://marlloyd-portfolio.vercel.app
-LinkedIn   : https://www.linkedin.com/in/marlloydhonrado
-Email      : honradomarlloyd@gmail.com
-GitHub     : https://github.com/mihonrado
-```
-
-<p>
-  <a href="https://marlloyd-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-marlloyd--portfolio.vercel.app-AD833C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/marlloydhonrado">
-    <img src="https://img.shields.io/badge/LinkedIn-marlloydhonrado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p>
-  <a href="mailto:honradomarlloyd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-honradomarlloyd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-```bash
 marlloyd@mih:~$ echo $PHILOSOPHY
 
 Build with Purpose.
 Scale with Precision.
 
 marlloyd@mih:~$ _
-```
+</pre>
