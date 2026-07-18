@@ -2,147 +2,122 @@
 
 # MIH
 
-### Building Systems That Scale
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=2500&color=AD833C&center=true&vCenter=true&width=700&lines=Web+Developer;Frontend+Engineer;React+%7C+Next.js+%7C+Laravel;AI-Assisted+Developer;Always+Learning"/>
+### `marlloyd@mih:~$ neofetch`
 
 </div>
 
----
-
-<table>
-<tr>
-
-<td width="45%" valign="top">
-
-## 👨‍💻 About Me
-
 ```console
-mih@github:~$ mihfetch
+MIH                              marlloyd@mih
+                                 ──────────────────────────────
+Building Systems That Scale      Name: Marlloyd Honrado
+                                 Role: Web Developer
+                                 Location: Davao, Philippines
+                                 Brand: MIH
 
-────────────────────────────────────
+                                 Frontend: React, Next.js, Vue, Nuxt
+                                 Backend: Laravel, Node.js
+                                 Database: MySQL
+                                 DevOps: Docker, Git, GitHub, Vercel
 
-Name      :: Marlloyd Honrado
-Brand     :: MIH
-Role      :: Web Developer
+                                 Editor: Visual Studio Code
+                                 Shell: PowerShell
+                                 Focus: SaaS, Automation and AI
 
-Location  :: Davao, Philippines 🇵🇭
-
-Frontend  :: React • Next.js • Vue
-Backend   :: Laravel • Node.js
-Database  :: MySQL
-DevOps    :: Docker • Git
-
-AI        :: Claude Code
-             OpenAI Codex
-             ChatGPT
-             Antigravity
-
-Status    :: Building systems that scale.
-
-────────────────────────────────────
+                                 Status: Building systems that scale
 ```
 
----
+```bash
+marlloyd@mih:~$ cat stack.txt
+```
 
-## 🎯 Current Focus
-
-> Building modern SaaS applications using **React**, **Next.js**, **Laravel**, and **Docker**, while integrating AI and automation into efficient development workflows.
-
----
-
-## 🌐 Connect
-
-**Portfolio**
-
-🔗 https://marlloyd-portfolio.vercel.app
-
-<br>
-
-**LinkedIn**
-
-🔗 https://www.linkedin.com/in/marlloydhonrado
-
-<br>
-
-**Email**
-
-📧 honradomarlloyd@gmail.com
-
-</td>
-
-<td width="55%" valign="top">
-
-# 🚀 Tech Stack
+## `~/tech-stack`
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql" alt="Languages"/>
+</p>
 
-### Frameworks
+### Frameworks and Libraries
 
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,laravel,nodejs)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,laravel,nodejs,tailwind" alt="Frameworks and libraries"/>
+</p>
 
-### DevOps
+### DevOps and Tools
 
-[![DevOps](https://skillicons.dev/icons?i=docker,git,github,vercel)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel" alt="DevOps and tools"/>
+</p>
 
 ### Design
 
-[![Design](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai" alt="Design tools"/>
+</p>
 
 ### AI Workflow
 
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge" alt="OpenAI Codex"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge" alt="Antigravity"/>
+</p>
 
----
+```bash
+marlloyd@mih:~$ cat learning.txt
+```
 
-## 📚 Currently Learning
+## `~/currently-learning`
 
 ```text
-✓ React Ecosystem
-
-✓ Next.js
-
-✓ Docker
-
-✓ n8n Automation
-
-✓ GoHighLevel (GHL)
-
-✓ AI Engineering
-
-✓ System Design
-
-✓ Cloud Deployment
+├── React Ecosystem
+├── Next.js
+├── Docker
+├── n8n Automation
+├── GoHighLevel (GHL)
+├── AI Engineering
+├── System Design
+└── Cloud Deployment
 ```
 
----
-
-## 💡 Philosophy
-
-```typescript
-const mih = {
-    build: "Scalable",
-    code: "Maintainable",
-    automate: "Everything repetitive",
-    learn: "Every single day",
-    mission: "Create software that solves real-world problems."
-}
+```bash
+marlloyd@mih:~$ cat connect.txt
 ```
 
-</td>
+## `~/connect`
 
-</tr>
-</table>
+```text
+Portfolio  : https://marlloyd-portfolio.vercel.app
+LinkedIn   : https://www.linkedin.com/in/marlloydhonrado
+Email      : honradomarlloyd@gmail.com
+GitHub     : https://github.com/mihonrado
+```
 
----
+<p>
+  <a href="https://marlloyd-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-marlloyd--portfolio.vercel.app-AD833C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-<div align="center">
+<p>
+  <a href="https://www.linkedin.com/in/marlloydhonrado">
+    <img src="https://img.shields.io/badge/LinkedIn-marlloydhonrado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-### Build with Purpose • Scale with Precision
+<p>
+  <a href="mailto:honradomarlloyd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-honradomarlloyd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-</div>
+```bash
+marlloyd@mih:~$ echo $PHILOSOPHY
+
+Build with Purpose.
+Scale with Precision.
+
+marlloyd@mih:~$ _
+```
