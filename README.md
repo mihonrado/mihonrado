@@ -4,7 +4,7 @@
 
 ### Building Systems That Scale
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=2500&color=AD833C&center=true&vCenter=true&width=650&lines=Web+Developer;Frontend+Engineer;React+%7C+Next.js+%7C+Laravel;Docker+Enthusiast;AI-Assisted+Development"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=2500&color=AD833C&center=true&vCenter=true&width=700&lines=Web+Developer;Frontend+Engineer;React+%7C+Next.js+%7C+Laravel;AI-Assisted+Developer;Always+Learning"/>
 
 </div>
 
@@ -18,50 +18,56 @@
 ## 👨‍💻 About Me
 
 ```console
-mih@github:~$ neofetch
+mih@github:~$ mihfetch
 
-┌──────────────────────────────┐
-│ 👤 Marlloyd Honrado          │
-│ 💼 Web Developer             │
-│ 📍 Davao, Philippines        │
-│                              │
-│ ⚛ React                      │
-│ ▲ Next.js                    │
-│ 💚 Laravel                   │
-│ 🐳 Docker                    │
-│                              │
-│ 🤖 Claude Code               │
-│ 🧠 OpenAI Codex              │
-│ ✨ ChatGPT                   │
-│ 🚀 Antigravity               │
-└──────────────────────────────┘
+────────────────────────────────────
 
-OS        : Windows 11
-Editor    : VS Code
-Shell     : PowerShell
-Focus     : SaaS Development
-Status    : Building systems that scale.
+Name      :: Marlloyd Honrado
+Brand     :: MIH
+Role      :: Web Developer
+
+Location  :: Davao, Philippines 🇵🇭
+
+Frontend  :: React • Next.js • Vue
+Backend   :: Laravel • Node.js
+Database  :: MySQL
+DevOps    :: Docker • Git
+
+AI        :: Claude Code
+             OpenAI Codex
+             ChatGPT
+             Antigravity
+
+Status    :: Building systems that scale.
+
+────────────────────────────────────
 ```
 
 ---
 
 ## 🎯 Current Focus
 
-> Building modern SaaS applications with React, Next.js, Laravel, and Docker while exploring AI-powered development workflows.
+> Building modern SaaS applications using **React**, **Next.js**, **Laravel**, and **Docker**, while integrating AI and automation into efficient development workflows.
 
 ---
 
 ## 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-AD833C?style=for-the-badge&logo=vercel&logoColor=white)](https://marlloyd-portfolio.vercel.app)
+**Portfolio**
+
+🔗 https://marlloyd-portfolio.vercel.app
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlloydhonrado)
+**LinkedIn**
+
+🔗 https://www.linkedin.com/in/marlloydhonrado
 
 <br>
 
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:honradomarlloyd@gmail.com)
+**Email**
+
+📧 honradomarlloyd@gmail.com
 
 </td>
 
@@ -103,13 +109,15 @@ Status    : Building systems that scale.
 
 ✓ Docker
 
-✓ Cloud Deployment
+✓ n8n Automation
+
+✓ GoHighLevel (GHL)
 
 ✓ AI Engineering
 
 ✓ System Design
 
-✓ Backend Architecture
+✓ Cloud Deployment
 ```
 
 ---
@@ -117,11 +125,12 @@ Status    : Building systems that scale.
 ## 💡 Philosophy
 
 ```typescript
-const developer = {
-  build: "Scalable",
-  code: "Maintainable",
-  mindset: "Continuous Learning",
-  mission: "Solve real-world problems."
+const mih = {
+    build: "Scalable",
+    code: "Maintainable",
+    automate: "Everything repetitive",
+    learn: "Every single day",
+    mission: "Create software that solves real-world problems."
 }
 ```
 
@@ -134,6 +143,6 @@ const developer = {
 
 <div align="center">
 
-### "Build with Purpose • Scale with Precision"
+### Build with Purpose • Scale with Precision
 
 </div>
