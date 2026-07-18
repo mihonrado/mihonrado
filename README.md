@@ -4,11 +4,7 @@
 
 ### Building Systems That Scale
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=AD833C&center=true&vCenter=true&width=650&lines=Web+Developer;Frontend+Engineer;React+%7C+Next.js+%7C+Laravel;Docker+Enthusiast;AI-Assisted+Development"/>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=mihonrado&style=flat-square&color=AD833C)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=2500&color=AD833C&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Engineer;React+%7C+Next.js+%7C+Laravel;Docker+Enthusiast;AI-Assisted+Development"/>
 
 </div>
 
@@ -33,28 +29,30 @@
 ```yaml
 Name: Marlloyd Honrado
 
-Role: Web Developer
+Role:
+  Web Developer
 
-Location: Philippines 🇵🇭
+Location:
+  Davao, Philippines 🇵🇭
 
-Focus:
-  - Frontend Engineering
-  - SaaS Development
-  - AI Workflows
-  - Automation
+Specialization:
+  • Frontend Engineering
+  • SaaS Development
+  • Automation
+  • AI Workflows
 ```
 
 ---
 
 ## 🎯 Current Focus
 
-> Building modern, scalable web applications with **React**, **Next.js**, **Laravel**, and **Docker**, while leveraging AI to improve developer productivity.
+> Building modern, scalable applications using React, Next.js, Laravel, and Docker while exploring AI-powered development workflows.
 
 ---
 
 ## 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-marlloyd--portfolio.vercel.app-AD833C?style=for-the-badge)](https://marlloyd-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-AD833C?style=for-the-badge)](https://marlloyd-portfolio.vercel.app)
 
 <br>
 
@@ -78,9 +76,13 @@ Focus:
 
 [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,laravel,nodejs)](https://skillicons.dev)
 
-### DevOps & Tools
+### DevOps
 
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,figma)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=docker,git,github,vercel)](https://skillicons.dev)
+
+### Development Tools
+
+[![Tools](https://skillicons.dev/icons?i=vscode,figma,illustrator)](https://skillicons.dev)
 
 ### AI Workflow
 
@@ -91,19 +93,20 @@ Focus:
 
 ---
 
-# 📊 GitHub Stats
+## 📚 Currently Learning
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mihonrado&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihonrado&layout=compact&theme=tokyonight&hide_border=true"/>
+- ⚛ React Ecosystem
+- ▲ Next.js
+- 🐳 Docker
+- ☁ Cloud Deployment
+- 🤖 AI Engineering
+- ⚡ System Design
 
 ---
 
-# 🏆 Achievements
+## 💡 Philosophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=mihonrado&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3"/>
+> Build software that is maintainable, scalable, and solves real problems.
 
 </td>
 
@@ -114,8 +117,6 @@ Focus:
 
 <div align="center">
 
-### ⚡ Philosophy
-
-> **Build with Purpose • Scale with Precision**
+### *"Build with Purpose • Scale with Precision."*
 
 </div>
