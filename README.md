@@ -4,7 +4,7 @@
 
 ### Building Systems That Scale
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=2500&color=AD833C&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Engineer;React+%7C+Next.js+%7C+Laravel;Docker+Enthusiast;AI-Assisted+Development"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=2500&color=AD833C&center=true&vCenter=true&width=650&lines=Web+Developer;Frontend+Engineer;React+%7C+Next.js+%7C+Laravel;Docker+Enthusiast;AI-Assisted+Development"/>
 
 </div>
 
@@ -13,58 +13,59 @@
 <table>
 <tr>
 
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
-```text
-███╗   ███╗██╗██╗  ██╗
-████╗ ████║██║██║  ██║
-██╔████╔██║██║███████║
-██║╚██╔╝██║██║██╔══██║
-██║ ╚═╝ ██║██║██║  ██║
-╚═╝     ╚═╝╚═╝╚═╝  ╚═╝
-```
+## 👨‍💻 About Me
 
-## 👋 About
+```console
+mih@github:~$ neofetch
 
-```yaml
-Name: Marlloyd Honrado
+┌──────────────────────────────┐
+│ 👤 Marlloyd Honrado          │
+│ 💼 Web Developer             │
+│ 📍 Davao, Philippines        │
+│                              │
+│ ⚛ React                      │
+│ ▲ Next.js                    │
+│ 💚 Laravel                   │
+│ 🐳 Docker                    │
+│                              │
+│ 🤖 Claude Code               │
+│ 🧠 OpenAI Codex              │
+│ ✨ ChatGPT                   │
+│ 🚀 Antigravity               │
+└──────────────────────────────┘
 
-Role:
-  Web Developer
-
-Location:
-  Davao, Philippines 🇵🇭
-
-Specialization:
-  • Frontend Engineering
-  • SaaS Development
-  • Automation
-  • AI Workflows
+OS        : Windows 11
+Editor    : VS Code
+Shell     : PowerShell
+Focus     : SaaS Development
+Status    : Building systems that scale.
 ```
 
 ---
 
 ## 🎯 Current Focus
 
-> Building modern, scalable applications using React, Next.js, Laravel, and Docker while exploring AI-powered development workflows.
+> Building modern SaaS applications with React, Next.js, Laravel, and Docker while exploring AI-powered development workflows.
 
 ---
 
 ## 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-AD833C?style=for-the-badge)](https://marlloyd-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AD833C?style=for-the-badge&logo=vercel&logoColor=white)](https://marlloyd-portfolio.vercel.app)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marlloyd_Honrado-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marlloydhonrado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlloydhonrado)
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-honradomarlloyd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:honradomarlloyd@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:honradomarlloyd@gmail.com)
 
 </td>
 
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 # 🚀 Tech Stack
 
@@ -80,33 +81,49 @@ Specialization:
 
 [![DevOps](https://skillicons.dev/icons?i=docker,git,github,vercel)](https://skillicons.dev)
 
-### Development Tools
+### Design
 
-[![Tools](https://skillicons.dev/icons?i=vscode,figma,illustrator)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
 
 ### AI Workflow
 
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square"/>
-<img src="https://img.shields.io/badge/Antigravity-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge"/>
 
 ---
 
 ## 📚 Currently Learning
 
-- ⚛ React Ecosystem
-- ▲ Next.js
-- 🐳 Docker
-- ☁ Cloud Deployment
-- 🤖 AI Engineering
-- ⚡ System Design
+```text
+✓ React Ecosystem
+
+✓ Next.js
+
+✓ Docker
+
+✓ Cloud Deployment
+
+✓ AI Engineering
+
+✓ System Design
+
+✓ Backend Architecture
+```
 
 ---
 
 ## 💡 Philosophy
 
-> Build software that is maintainable, scalable, and solves real problems.
+```typescript
+const developer = {
+  build: "Scalable",
+  code: "Maintainable",
+  mindset: "Continuous Learning",
+  mission: "Solve real-world problems."
+}
+```
 
 </td>
 
@@ -117,6 +134,6 @@ Specialization:
 
 <div align="center">
 
-### *"Build with Purpose • Scale with Precision."*
+### "Build with Purpose • Scale with Precision"
 
 </div>
