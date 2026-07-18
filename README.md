@@ -1,5 +1,16 @@
 <div align="center">
 
+# MIH
+
+**Build with Purpose • Scale with Precision**
+
+</div>
+
+<table>
+<tr>
+
+<td width="48%" valign="top">
+
 ```text
 ███╗   ███╗██╗██╗  ██╗
 ████╗ ████║██║██║  ██║
@@ -8,263 +19,97 @@
 ██║ ╚═╝ ██║██║██║  ██║
 ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝
 
-═══════════════════════════════════════════════════════
-
-         Build with Purpose • Scale with Precision
-
-═══════════════════════════════════════════════════════
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2500&color=AD833C&center=true&vCenter=true&width=700&lines=Web+Developer;Frontend+Engineer;React+%7C+Next.js+%7C+Nuxt;Laravel+Developer;Docker+Enthusiast;AI-Assisted+Development"/>
-
-</div>
-
----
-
-# ~/whoami
-
-```bash
-$ whoami
-
-Marlloyd I. Honrado
+───────────────
 
 Web Developer
 Frontend Engineer
 AI-Assisted Builder
+Automation Enthusiast
 
-Location:
-Philippines 🇵🇭
+───────────────
 
-Status:
-Building scalable web applications.
-```
-
----
-
-# ~/about
-
-```yaml
-name: MIH
-
-specialization:
-  - Frontend Development
-  - SaaS Applications
-  - Modern UI/UX
-  - Automation
-
-currently_learning:
-  - React
-  - Next.js
-  - Docker
-  - AI Engineering
-
-interests:
-  - System Design
-  - Clean Architecture
-  - Developer Productivity
-  - Open Source
-
-goal:
-  Become a world-class software engineer.
-```
-
----
-
-# ~/stack
-
-```text
-Frontend
-├── HTML
-├── CSS
-├── JavaScript
-├── TypeScript
-├── Vue.js
-├── Nuxt
-├── React
-└── Next.js
-
-Backend
-├── Laravel
-├── Node.js
-├── REST APIs
-└── MySQL
-
-DevOps
-├── Docker
-├── Git
-├── GitHub
-└── Vercel
-
-Design
-├── Figma
-└── Illustrator
-
-AI Workflow
-├── Claude Code
-├── OpenAI Codex
-├── ChatGPT
-└── Antigravity
-```
-
----
-
-# ~/experience
-
-```text
-✓ Production SaaS Development
-
-✓ Dynamic Form Builder
-
-✓ Dynamic Bookkeeping System
-
-✓ Financial Dashboard
-
-✓ Analytics Modules
-
-✓ Notification Center
-
-✓ AI Provider Integration
-
-✓ RBAC Authorization
-
-✓ Multi-tenant Architecture
-
-✓ Quality Assurance
-
-✓ Remote International Team
-```
-
----
-
-# ~/philosophy
-
-```text
 while(alive){
 
-    Learn();
+    learn();
 
-    Build();
+    build();
 
-    Improve();
+    improve();
 
-    Repeat();
+    repeat();
 
 }
 ```
 
----
+</td>
 
-# ~/currently-working-on
+<td width="52%" valign="top">
 
-```diff
-+ React Ecosystem
+## 💻 STACKS
 
-+ Next.js
+### Frontend
 
-+ Docker
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-+ AI-powered Development
+![Vue](https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
 
-+ Automation Workflows
+### Backend
 
-+ Portfolio Projects
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-+ Open Source Contributions
-```
+### DevOps
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
-# ~/github
+### AI
 
-<div align="center">
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-black?style=flat-square)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Design
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</div>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator)
 
 ---
 
-# ~/projects
+## 📊 STATS
 
-```text
-🖥 SaaS Platforms
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-📊 Analytics Dashboards
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-⚙ Automation Systems
-
-🤖 AI Integrations
-
-🌐 Business Websites
-
-🎨 Modern Landing Pages
-```
+![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
 
-# ~/terminal
+## 🌐 CONNECT
 
-```bash
-$ skills
-
-Frontend      ████████████████████ 95%
-
-Backend       ████████████████░░░░ 80%
-
-UI Design     ███████████████░░░░░ 75%
-
-Automation    ███████████████░░░░░ 75%
-
-Docker        ██████████░░░░░░░░░░ 50%
-
-AI Workflow   ████████████████████ 95%
-```
-
----
-
-# ~/connect
-
-```bash
 Portfolio
 
-marlloyd-portfolio.vercel.app
+> https://marlloyd-portfolio.vercel.app
 
 LinkedIn
 
-linkedin.com/in/your-profile
+> https://linkedin.com/in/YOUR_PROFILE
 
 Email
 
-honradomarlloyd@gmail.com
-```
+> honradomarlloyd@gmail.com
 
----
+</td>
 
-<div align="center">
-
-```text
-███████╗███╗   ██╗██████╗
-██╔════╝████╗  ██║██╔══██╗
-█████╗  ██╔██╗ ██║██║  ██║
-██╔══╝  ██║╚██╗██║██║  ██║
-███████╗██║ ╚████║██████╔╝
-╚══════╝╚═╝  ╚═══╝╚═════╝
-
-Thanks for stopping by.
-```
-
-</div>
+</tr>
+</table>
