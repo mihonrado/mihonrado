@@ -1,8 +1,43 @@
-The year, so far
-<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mihonrado&theme=aurora&style=jet&mode=light" /> <img src="https://www.gitskins.com/api/section/heatmap?username=mihonrado&theme=aurora&style=jet&mode=dark" width="100%" alt="747 contributions in the last year" /> </picture> </p>
-Signal
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mihonrado&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=mihonrado&theme=aurora" width="100%" alt="3 stars across 10 repositories" /></picture> </p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mihonrado&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=mihonrado&theme=aurora" width="100%" alt="Language stack" /></picture> </p>
-Work
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mihonrado&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=mihonrado&theme=aurora" width="100%" alt="Pinned projects" /></picture> </p>
-Profile scan
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=mihonrado&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=mihonrado&theme=aurora" width="100%" alt="ASCII profile scan" /></picture> </p> <hr /> <p align="center"> <sub>Marlloyd Honrado · every panel is a single <code>&lt;img&gt;</code> of live GitHub data · built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub> </p>
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Marlloyd Honrado — profile" />
+</p>
+
+<p align="center"><a href="https://github.com/mihonrado">GitHub</a></p>
+
+<p align="center">
+  <img src="assets/highlights.svg" width="100%" alt="Highlights" />
+</p>
+
+### The year, so far
+
+<p align="center">
+  <img src="assets/heatmap.svg" width="100%" alt="Contributions in the last year" />
+</p>
+
+### Signal
+
+<p align="center">
+  <img src="assets/stats.svg" width="100%" alt="Stars, repos, forks, commits" />
+</p>
+
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Language stack" />
+</p>
+
+### Work
+
+<p align="center">
+  <img src="assets/projects.svg" width="100%" alt="Pinned projects" />
+</p>
+
+### Profile scan
+
+<p align="center">
+  <img src="assets/system-scan.svg" width="100%" alt="Profile scan" />
+</p>
+
+<hr />
+
+<p align="center">
+  <sub>Marlloyd Honrado · every panel is a self-hosted SVG generated from live GitHub data · auto-refreshed daily via GitHub Actions</sub>
+</p>

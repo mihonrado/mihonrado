@@ -1,0 +1,47 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular','Consolas','Liberation Mono','Menlo',monospace">
+  
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070a10"/>
+      <stop offset="100%" stop-color="#0c1119"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="accentGradV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="0%" r="90%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1d2733" stroke-width="0.5" opacity="0.35"/>
+    </pattern>
+    <clipPath id="avatarClip">
+      <circle cx="70" cy="70" r="54"/>
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="1200" height="120" rx="14" fill="url(#bgGrad)"/>
+  <rect x="0" y="0" width="1200" height="120" rx="14" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1200" height="120" rx="14" fill="url(#glow)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="118.5" rx="13.5" fill="none" stroke="#1d2733"/>
+  
+      <g transform="translate(50,34)">
+        <rect width="210.8" height="52" rx="10" fill="#0f1521" stroke="#1d2733"/>
+        <circle cx="22" cy="26" r="4" fill="#2dd4bf"/>
+        <text x="38" y="31" fill="#d6dee7" font-size="14">10 public repositories</text>
+      </g>
+      <g transform="translate(286.8,34)">
+        <rect width="210.8" height="52" rx="10" fill="#0f1521" stroke="#1d2733"/>
+        <circle cx="22" cy="26" r="4" fill="#22d3ee"/>
+        <text x="38" y="31" fill="#d6dee7" font-size="14">Featured: wordmark-lab</text>
+      </g>
+      <g transform="translate(523.6,34)">
+        <rect width="236" height="52" rx="10" fill="#0f1521" stroke="#1d2733"/>
+        <circle cx="22" cy="26" r="4" fill="#34d399"/>
+        <text x="38" y="31" fill="#d6dee7" font-size="14">3 stars · 119 active days</text>
+      </g>
+</svg>
