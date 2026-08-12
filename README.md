@@ -1,24 +1,9 @@
-![Terminal Command](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=AD833C&vCenter=true&width=1000&height=35&repeat=false&lines=marlloyd%40mih%3A~%24+clear+%26%26+mihfetch)
-
-<pre>
-MIH                                      marlloyd@mih
-Build with Purpose.                      ----------------------------------------
-Scale with Precision.                    name           : Marlloyd I. Honrado
-                                         role           : Web Developer
-                                         location       : Davao City, Philippines
-                                         education      : BS Information Technology
-                                         brand          : MIH
-
-                                         specialization : Frontend Engineering
-                                                          SaaS Development
-                                                          Automation
-                                                          AI-Assisted Development
-
-                                         status         : Building systems that scale
-
-                                         portfolio      : <a href="https://mihonrado.vercel.app">https://mihonrado.vercel.app</a>
-                                         linkedin       : <a href="https://www.linkedin.com/in/marlloydhonrado">https://www.linkedin.com/in/marlloydhonrado</a>
-                                         github         : <a href="https://github.com/mihonrado">https://github.com/mihonrado</a>
-                                         email          : <a href="mailto:honradomarlloyd@gmail.com">honradomarlloyd@gmail.com</a>
-</pre>
-
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=mihonrado&theme=aurora&label=Marlloyd+Honrado&mode=light" /><img src="https://www.gitskins.com/api/section/wordmark?username=mihonrado&theme=aurora&label=Marlloyd+Honrado" width="100%" alt="Marlloyd Honrado" /></picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mihonrado&theme=aurora&mode=light" /> <img src="https://www.gitskins.com/api/section/hero?username=mihonrado&theme=aurora&mode=dark" width="100%" alt="Marlloyd Honrado — profile" /> </picture> </p> <p align="center"><a href="https://github.com/mihonrado">GitHub</a></p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=mihonrado&theme=aurora&items=JavaScript%3A%3A10+public+repositories%7CJavascript%3A%3AFeatured+project%7CImpact%3A%3A3+stars+%C2%B7+119+active+days&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=mihonrado&theme=aurora&items=JavaScript%3A%3A10+public+repositories%7CJavascript%3A%3AFeatured+project%7CImpact%3A%3A3+stars+%C2%B7+119+active+days" width="100%" alt="Highlights" /></picture> </p>
+The year, so far
+<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mihonrado&theme=aurora&style=jet&mode=light" /> <img src="https://www.gitskins.com/api/section/heatmap?username=mihonrado&theme=aurora&style=jet&mode=dark" width="100%" alt="747 contributions in the last year" /> </picture> </p>
+Signal
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mihonrado&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=mihonrado&theme=aurora" width="100%" alt="3 stars across 10 repositories" /></picture> </p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mihonrado&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=mihonrado&theme=aurora" width="100%" alt="Language stack" /></picture> </p>
+Work
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mihonrado&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=mihonrado&theme=aurora" width="100%" alt="Pinned projects" /></picture> </p>
+Profile scan
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=mihonrado&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=mihonrado&theme=aurora" width="100%" alt="ASCII profile scan" /></picture> </p> <hr /> <p align="center"> <sub>Marlloyd Honrado · every panel is a single <code>&lt;img&gt;</code> of live GitHub data · built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub> </p>
