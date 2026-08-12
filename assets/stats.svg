@@ -41,12 +41,12 @@
     </g>
     <g transform="translate(600,40)">
       <text x="0" y="0" fill="#69707c" font-size="12" letter-spacing="2">FORKS</text>
-      <text x="0" y="52" fill="#d6dee7" font-size="42" font-weight="700">2</text>
+      <text x="0" y="52" fill="#d6dee7" font-size="42" font-weight="700">0</text>
       <rect x="0" y="66" width="235" height="3" rx="1.5" fill="url(#accentGrad)"/>
     </g>
     <g transform="translate(875,40)">
       <text x="0" y="0" fill="#69707c" font-size="12" letter-spacing="2">COMMITS (1Y)</text>
-      <text x="0" y="52" fill="#d6dee7" font-size="42" font-weight="700">400</text>
+      <text x="0" y="52" fill="#d6dee7" font-size="42" font-weight="700">90</text>
       <rect x="0" y="66" width="235" height="3" rx="1.5" fill="url(#accentGrad)"/>
     </g>
 </svg>

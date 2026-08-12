@@ -35,13 +35,13 @@
         <text x="38" y="31" fill="#d6dee7" font-size="14">10 public repositories</text>
       </g>
       <g transform="translate(286.8,34)">
-        <rect width="210.8" height="52" rx="10" fill="#0f1521" stroke="#1d2733"/>
+        <rect width="185.6" height="52" rx="10" fill="#0f1521" stroke="#1d2733"/>
         <circle cx="22" cy="26" r="4" fill="#22d3ee"/>
-        <text x="38" y="31" fill="#d6dee7" font-size="14">Featured: wordmark-lab</text>
+        <text x="38" y="31" fill="#d6dee7" font-size="14">Featured: mihonrado</text>
       </g>
-      <g transform="translate(523.6,34)">
+      <g transform="translate(498.4,34)">
         <rect width="236" height="52" rx="10" fill="#0f1521" stroke="#1d2733"/>
         <circle cx="22" cy="26" r="4" fill="#34d399"/>
-        <text x="38" y="31" fill="#d6dee7" font-size="14">3 stars · 119 active days</text>
+        <text x="38" y="31" fill="#d6dee7" font-size="14">3 stars · 116 active days</text>
       </g>
 </svg>
