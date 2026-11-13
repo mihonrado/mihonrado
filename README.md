@@ -18,7 +18,6 @@ Scale with Precision.                    name           : Marlloyd I. Honrado
 
                                          portfolio      : <a href="https://mihonrado.com">https://mihonrado.com</a>
                                          linkedin       : <a href="https://www.linkedin.com/in/marlloydhonrado">https://www.linkedin.com/in/marlloydhonrado</a>
-                                         github         : <a href="https://github.com/mihonrado">https://github.com/mihonrado</a>
                                          email          : <a href="mailto:honradomarlloyd@gmail.com">honradomarlloyd@gmail.com</a>
 </pre>
 
