@@ -9,7 +9,7 @@ Scale with Precision.                    name           : Marlloyd I. Honrado
                                          education      : BS Information Technology
                                          brand          : MIH
 
-                                         specialization : Frontend Engineering
+                                         specialization : Full-stack Development
                                                           SaaS Development
                                                           Automation
                                                           AI-Assisted Development
